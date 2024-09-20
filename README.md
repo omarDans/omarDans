@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from Spain, i'm 20 years old and i and i love computers. 💻<br><br>- Programming in the day. ☀️<br>- Hacking in the night. 🌑<br><br>I love tryhackme.com and pwn.college</p>
+<p align="left">I'm from Spain, i'm 20 years old and i love computers. 💻<br><br>- Programming in the day. ☀️<br>- Hacking in the night. 🌑<br><br>I love tryhackme.com and pwn.college</p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Gh0stSoul.png" alt="TryHackMe">
 
 ###
