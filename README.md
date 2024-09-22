@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from Spain, i'm 20 years old and i love computers. 💻<br><br>- Programming in the day. ☀️<br>- Hacking in the night. 🌑<br><br>I love tryhackme.com and pwn.college<br><br>Currently working on:<br><br>- TypeRacerBot (private): Bot for automatically type in play.typeracer.com (just for fun, don't blame me)<br>- My Website (private): Mi portfolio website :)</p>
+<p align="left">I'm from Spain, i'm 20 years old and i love computers. 💻<br><br>- Programming in the day. ☀️<br>- Hacking in the night. 🌑<br><br>I love tryhackme.com and pwn.college<br><br><h2>Currently working on:</h2><br><br>- TypeRacerBot (private): Bot for automatically type in play.typeracer.com (just for fun, don't blame me)<br>- My Website (private): Mi portfolio website :)</p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Gh0stSoul.png" alt="TryHackMe">
 
 ###
